@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.img-fluid {
+  width: 45px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
